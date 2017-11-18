@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+published: true
+bigimg:
+  - "/img/aboutme_header.jpg"
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hey people! I'm Daniel Rivero Losa, I live in Madrid and I'm a Software Engineer, this is the place where I talk a little bit about myself, although I won't expand much...
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am a person very dedicated to the world of computer science, with great passion for free software and the development of applications for any type of platform.
+- I like to work with architectures and design patterns that fit the specifications of the project and turn it into quality software, as well as using agile methodologies for work and team management.
+- I always want to learn and evolve in any field of life.
 
-What else do you need?
+In addition to computer science I have other passions such as Astronomy, Philosophy and the struggle for a free world in which each individual can be treated as deserves.
 
-### my history
+If you want to talk to me about any topic you can do it via [Twitter](https://www.twitter.com/DAN1ELRL) or by sending me an [email](danielrl.drl@protonmail.com),  I am happy to answer you about whatever you need.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+> We shouldn't be looking for heroes, we should be looking for good ideas.
+>
+> -Noam Chomsky
