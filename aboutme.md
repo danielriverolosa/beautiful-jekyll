@@ -2,7 +2,7 @@
 layout: page
 published: true
 bigimg:
-  - "/img/aboutme_header.jpg"
+  - /img/aboutme_header.jpg
 ---
 
 Hey people! I'm Daniel Rivero Losa, I live in Madrid and I'm a Software Engineer, this is the place where I talk a little bit about myself, although I won't expand much...
@@ -13,7 +13,7 @@ Hey people! I'm Daniel Rivero Losa, I live in Madrid and I'm a Software Engineer
 
 In addition to computer science I have other passions such as Astronomy, Philosophy and the struggle for a free world in which each individual can be treated as deserves.
 
-If you want to talk to me about any topic you can do it via [Twitter](https://www.twitter.com/DAN1ELRL) or by sending me an [email](danielrl.drl@protonmail.com),  I am happy to answer you about whatever you need.
+If you want to talk to me about anything, you can do it via [Twitter](https://www.twitter.com/DAN1ELRL) or [Linkedin](https://es.linkedin.com/in/danielriverolosa) or by sending me an [Email](danielrl.drl@protonmail.com),  I am happy to answer you about whatever you need.
 
 > We shouldn't be looking for heroes, we should be looking for good ideas.
 >
